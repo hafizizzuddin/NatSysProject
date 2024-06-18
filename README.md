@@ -3,7 +3,7 @@
 Group Name: CLOUD 9
 
 Team Mates:
-1. Muhammad Hafiz Izzuddin Bin Shukri
+1. Muhammad Hafiz Izzuddin Bin Shukri 2217477
 2. __Fill name__ and __matric no__
 3. __Fill name__ and __matric no__
 
@@ -23,8 +23,8 @@ Team Mates:
 ***Questions:***
 
 1. What is the link of the fork Net&Sys Assignment in your repository. ***(1 mark)***
-   
-3. How many files and folders are in this repository. ***(1 mark)*** __Fill answer here__.
+   https://github.com/hafizizzuddin/NatSysProject
+3. How many files and folders are in this repository. ***(1 mark)*** 1 Folder and 7 Files.
 
 
 ## Exploring github codespaces
