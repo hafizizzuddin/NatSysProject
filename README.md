@@ -4,7 +4,7 @@ Group Name: CLOUD 9
 
 Team Mates:
 1. Muhammad Hafiz Izzuddin Bin Shukri 2217477
-2. __Fill name__ and __matric no__
+2. Muhammad Danial Bin Mohd Zaidi 2210917
 3. __Fill name__ and __matric no__
 
 ## Rules
